@@ -37,7 +37,7 @@ Odyssey may offer optional donation features. Users may receive in-game currency
 
 ## 3. Enforcement
 
-The Odyssey development team reserves the right to take action against any user who violates these Terms, including:
+The Odyssey development team reserves the right to take action against any user who violates these Terms, including but not limited to:
 
 * Temporary or permanent suspension
 * Reset or removal of in-game progress, currency, or items
